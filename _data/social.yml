@@ -1,6 +1,15 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+# - title: Twitter
+#   url: https://twitter.com/ngzhio
+#   icon: fab fa-twitter
+- title: Facebook
+  url: https://www.facebook.com/jongikp
+  icon: fab fa-facebook
+- title: Instagram
+  url: https://www.instagram.com/analytics_engineer
+  icon: fab fa-instagram
+- title: LinkedIn
+  url: https://www.linkedin.com/in/jongikpark/
+  icon: fab fa-linkedin
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/jongikp
   icon: fab fa-github

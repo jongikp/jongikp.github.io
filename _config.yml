@@ -1,8 +1,9 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Data Explorer
+description: All is well
+author: 박종익 (Jong-Ik "Chris" Park)
+avatar: /images/chris_park.jpg
+bio: 데이터쟁이 박종익의 기술 블로그입니다. 데이터 관련 관심있는 분야를 저의 생각을 엮어 기록합니다.
+email: jongikp90@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -14,11 +15,11 @@ paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
-# google_analytics: 
+google_analytics: G-4FDRNGN17K
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # 
-# disqus:
+disqus: datagrit37
 
 # Jekyll
 # ======
@@ -29,15 +30,16 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
+# twitter:
+#   username: ngzhio
+#   card: summary
+logo: /images/chris_park.jpg
 social:
-  name: Shangzhi Huang
+  name: Chris Park
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://www.facebook.com/jongikp
+    - https://www.instagram.com/analytics_engineer
+    - https://www.linkedin.com/in/jongikpark/
+    - https://github.com/jongikp
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: ko
