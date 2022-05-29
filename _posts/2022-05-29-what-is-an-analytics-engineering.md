@@ -93,8 +93,8 @@ Analytics Engineering은 `조직 차원에서 누구나 데이터를 잘 활용�
 읽어주셔서 감사하고 앞으로도 잘 부탁드립니다.
 
 # Reference
-* https://www.getdbt.com/what-is-analytics-engineering/
-* https://www.northeastern.edu/graduate/blog/what-is-an-analytics-engineer/
-* https://towardsdatascience.com/analytics-engineer-the-newest-data-career-role-b312a73d57d7
-* https://towardsdatascience.com/analyst-2-0-3c10daf124c8
-* https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/
+* <https://www.getdbt.com/what-is-analytics-engineering/>
+* <https://www.northeastern.edu/graduate/blog/what-is-an-analytics-engineer/>
+* <https://towardsdatascience.com/analytics-engineer-the-newest-data-career-role-b312a73d57d7>
+* <https://towardsdatascience.com/analyst-2-0-3c10daf124c8>
+* <https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/>
