@@ -3,7 +3,7 @@ layout: post
 title: "찍먹해보는 Data & Analytics Governance"
 categories: [D&A Governance]
 tags: [PAP]
-toc: false
+toc: true
 comments: true
 ---
 ### 부제 : 사막에 용수로 만들기
@@ -20,7 +20,7 @@ comments: true
 언제 어떻게 어디에 물을 공급할 수 있을지 알 수 있을 것으로 기대합니다.
 
 
-# 시작하며
+## 시작하며
 ADsP라는 자격증을 위해 공부하게 되면 데이터 거버넌스와 분석 거버넌스 라는 용어가 나옵니다. 저는 사실 이 용어를 중요하다고 느끼지 않았던 것으로 기억합니다.
 왜냐하면 데이터 관련 실무자의 관점에서 분석 및 모델링 관련의 성장을 추구했기 때문에 이를 깊게 생각했던 적은 없었고 단순히 시험을 위한 것이라고 생각했었습니다.
 
@@ -33,7 +33,7 @@ ADsP라는 자격증을 위해 공부하게 되면 데이터 거버넌스와 분
 그래서 흐릿하게 기억하고 있었던 Data & Analytics Governance를 다시 떠올리게 되었습니다.
 
 
-# Data & Analytics Governance
+## Data & Analytics Governance
 처음에 Governance라는 단어를 들었을 때, 의미적으로는 알겠는데 어떻게 말과 글로 표현할 수 있을지에 대해 어려움이 있었습니다.  
 그래서 공부를 해보면서 느낀 Governance의 의미는 프로세스, 정책 및 정보를 만들고 지속적으로 관리하는 Mass Structure 라고 생각합니다.  
 여기에는 비즈니스 성과를 가속화하기 위한 전략, 프로세스, 활동, 기술, 조직 및 기술이 포함되며 이를 관리 및 수행하기 위한 조직, 역할 및 책임을 만드는 것도 포함됩니다.
@@ -118,7 +118,7 @@ ADsP에 있는 이론을 따르면, 준비도와 성숙도 모델을 바탕으�
 따라서 해당 파트는 이런 것이 있구나 정도로 소개드리고 넘어가려고 합니다.
 
 
-# 마치며
+## 마치며
 Data & Analytics Governance 관련 이론이나 요약글들은 쉽게 찾아볼 수 있지만, `D&A Governance 단계를 어떻게 측정할 수 있을까` 에 대해
 실제로 어떠한 방식으로 조직의 D&A 거버넌스 구축 단계를 측정하고 진단하는지에 대한 가이드나 모델이 없어 보입니다.  
 그래서 PAP에 계신 뛰어난 분들과 함께 `D&A Governance` 사이드 프로젝트를 진행하고 있습니다.
@@ -129,7 +129,7 @@ Data & Analytics Governance 관련 이론이나 요약글들은 쉽게 찾아볼
 
 감사합니다.
 
-# Reference
+## Reference
 * <https://mip.com.au/data-and-analytics-governance-framework/>
 * <https://www.gartner.com/smarterwithgartner/7-key-foundations-for-modern-data-and-analytics-governance>
 * <https://www.ironsidegroup.com/2018/03/14/data-analytics-governance/>
