@@ -3,7 +3,7 @@ layout: post
 title: "찍먹해보는 Data & Analytics Governance"
 categories: [D&A Governance]
 tags: [PAP]
-toc: true
+toc: false
 comments: true
 ---
 ### 부제 : 사막에 용수로 만들기

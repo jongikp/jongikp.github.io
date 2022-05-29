@@ -3,7 +3,7 @@ layout: post
 title: "데이터잡부, 근데 이제 Analytics Engineering을 곁들인"
 categories: [Analytics Engineering]
 tags: [글또]
-toc: true
+toc: false
 comments: true
 ---
 # 시작하며,
