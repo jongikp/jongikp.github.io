@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "알아보자, DBT"
+title: "알아보자, DBT (1)"
 categories: [Analytics Engineering]
 tags: [글또]
 toc: true
